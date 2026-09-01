@@ -1,6 +1,10 @@
 # Claude Code 전역 환경 셋업 (상태줄 + Context7 MCP + oh-my-claudecode)
 
-> **용도:** Claude Code 전역(`~/.claude`) 환경에 상태줄 컨텍스트 표시(ccstatusline), 최신 라이브러리 문서 조회(Context7 MCP), 에이전트/스킬 번들(oh-my-claudecode)을 설치하고 각 단계를 검증
+> **용도:** Claude Code 전역(`~/.claude`) 환경 셋업
+> - 상태줄 컨텍스트 표시 (ccstatusline)
+> - 최신 라이브러리 문서 조회 (Context7 MCP)
+> - 에이전트/스킬 번들 설치 (oh-my-claudecode)
+> - 각 단계 실행 후 동작 검증
 >
 > **모델 추천:** Claude Code (Sonnet/Opus 계열)
 
